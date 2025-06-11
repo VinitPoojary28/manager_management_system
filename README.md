@@ -8,8 +8,8 @@ Features
 * Add new employee information
 * Modify existing employee information
 * Delete employee information
-* Table Schema
-* The employee data is stored in a table named emp with the following schema:
+# Table Schema
+The employee data is stored in a table named emp with the following schema:
 
 ## Table Schema
 
